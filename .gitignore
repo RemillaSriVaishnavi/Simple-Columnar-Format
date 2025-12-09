@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# pytest cache
+pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# Data files created during testing
+*.csv
+*.cstm
+
+# OS files
+.DS_Store
+
+# Python virtual environment
+venv/
+.env/
